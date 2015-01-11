@@ -10,3 +10,4 @@ I used the arduino C library to program the base thermostat station. The web int
 In this example, an LED is lit when the unit is calling for heat. In a real-life application, a relay would be used to control the HVAC unit.
 
 Unit will call for heat when the set temperature (set by user) is greater than the current room temperature.
+![calling for heat](http://i.imgur.com/JZ8w0My.jpg)
